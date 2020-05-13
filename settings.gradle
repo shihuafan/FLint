@@ -1,0 +1,6 @@
+rootProject.name='FLint'
+include ':app'
+include ':rule'
+include ':alibrary'
+include ':plugin'
+
